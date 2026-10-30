@@ -3,3 +3,10 @@ node_modules/
 uploads/
 dist/
 .DS_Storecd
+.env.*
+!.env.example
+generated/
+.agents/
+.claude/
+.windsurf/
+skills-lock.json
