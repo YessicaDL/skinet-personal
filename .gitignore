@@ -3,3 +3,8 @@ node_modules/
 uploads/
 dist/
 .DS_Storecd
+generated/
+.agents/
+.claude/
+.windsurf/
+skills-lock.json
