@@ -1,8 +1,10 @@
 node_modules/
 .env
+.env.*
+!.env.example
 uploads/
 dist/
-.DS_Storecd
+.DS_Store
 generated/
 .agents/
 .claude/
